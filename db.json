@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "id": 1
+    },
+    {
+      "name": "teja",
+      "email": "teja@gmail.com",
+      "password": "Teja",
+      "id": 2
+    },
+    {
+      "name": "teja",
+      "email": "teja@gmail.com",
+      "password": "Teja",
+      "id": 3
+    },
+    {
+      "name": "hari",
+      "email": "hari@gmail.com",
+      "password": "Hari",
+      "id": 4
+    },
+    {
+      "name": "hariii",
+      "email": "hari7@gmail.com",
+      "password": "hari",
+      "id": 5
+    }
+  ]
+}
